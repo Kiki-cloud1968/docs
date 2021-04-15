@@ -1,4 +1,4 @@
----
+sacdevgg@gmail.com
 title: Restricting email notifications to an approved domain
 intro: 'To prevent organization information from leaking into personal accounts, organization owners can restrict email notifications about organization activity to a verified domain.'
 product: '{% data reusables.gated-features.restrict-email-domain %}'
